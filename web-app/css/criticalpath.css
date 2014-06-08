@@ -1,0 +1,23 @@
+.critical-paths {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.activity {
+  font-size: 15px;
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.arrow {
+  font-size: 32px;
+  display: inline-block;
+  color: #f66;
+}
+
+.activity, .arrow {
+  font-weight: bold;
+}
